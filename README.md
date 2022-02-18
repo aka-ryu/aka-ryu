@@ -7,7 +7,7 @@
 
 <h2>Study</h2>
 이젠아카데미 송파지점 국비지원 교육과정 수료 (JAVA, SPRING 백엔드) <br>
-<h4>development language & framework</h4>
+<h3>development language & framework</h3>
 <div style="white-space: nowrap;">
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=white" />
@@ -19,16 +19,18 @@
 <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=flat-square&logo=Laravel&logoColor=white "/> 
 </div>
   
-<h4>tools</h4>
+<h3>tools</h3>
 <div style="white-space: nowrap;">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white "/>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white "/>
 </div>
 
-<h4>portfolio</h4>
+<h3>portfolio</h3>
  
 <a href="https://aka-ryu.github.io/">모두의 운동</a><br>
 React 이용하여 간단하게 만들어본 웨이트트레이닝 웹<br><br>
 <a href="https://peerless-rock-340611.dt.r.appspot.com/list/1">NODE BOARD</a><br>
 Node, Mongodb(Atlas), Google Cloud,  구글클라우드 를 이용하여 만든 crud, 회원(세션) 권한 계시판
+  
+
 </strong>
