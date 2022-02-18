@@ -6,7 +6,11 @@
 주  소 : 서울시 동작구 노량진동<br><br>
 
 <h2>Study</h2>
-이젠아카데미 송파지점 국비지원 교육과정 수료 (JAVA, SPRING 백엔드) <br>
+<ul>
+  <li>이젠아카데미 송파지점 국비지원 교육과정 수료 (JAVA, SPRING 백엔드)</li>
+  <li>애플코딩 React, Node.js 동영상 강의</li>
+  <li>관련서적 (처음부터 제대로 배우는 라라벨, 코배스, 이것이 자바다 등)</li>
+</ul>
 <h3>development language & framework</h3>
 <div style="white-space: nowrap;">
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white" />
