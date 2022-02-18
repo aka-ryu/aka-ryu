@@ -34,7 +34,6 @@
 <a href="https://aka-ryu.github.io/">모두의 운동</a><br>
 React 이용하여 간단하게 만들어본 웨이트트레이닝 웹<br><br>
 <a href="https://peerless-rock-340611.dt.r.appspot.com/list/1">NODE BOARD</a><br>
-Node, Mongodb(Atlas), Google Cloud,  구글클라우드 를 이용하여 만든 crud, 회원(세션) 권한 계시판
+Node, Mongodb(Atlas), Google Cloud,  구글클라우드 를 이용하여 만든 crud, 회원(세션) 권한 계시판<br><br><br>
   
-
 </strong>
