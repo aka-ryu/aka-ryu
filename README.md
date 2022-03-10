@@ -5,7 +5,7 @@
 전  화 : 010-7585-7311<br>
 주  소 : 서울시 동작구 노량진동<br><br>
 
-<h2>Career</h2>
+<h2>Work experience</h2>
 니아랩스 2022/03/02 ~ ing<br><br>
 
 <h2>Study</h2>
