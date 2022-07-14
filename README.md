@@ -21,7 +21,6 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white "/>
 <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=Spring&logoColor=white "/>
-<img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=node.js&logoColor=white "/>
 <img src="https://img.shields.io/badge/REACT.JS-61DAFB?style=flat-square&logo=REACT&logoColor=white "/>
 <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=flat-square&logo=Laravel&logoColor=white "/> 
 </div>
