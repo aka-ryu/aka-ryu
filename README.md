@@ -33,7 +33,7 @@
 
 <h3>portfolio</h3>
  
-<a href="https://react-app-357000.du.r.appspot.com/" target="_blank">모두의 운동</a><br>
+<a href="https://aka-ryu.github.io/" target="_blank">모두의 운동</a><br>
 React 이용하여 간단하게 만들어본 웨이트트레이닝 웹<br><br>
 <a href="https://react-app-357000.du.r.appspot.com/" target="_blank">BOARD</a><br>
 SPRING, REACT 를 이용하고 localtunnel, ngrok를 이용하여 로컬호스트로 배포중인 crud, 회원(세션) 권한 게시판<br>
