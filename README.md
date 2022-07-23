@@ -39,7 +39,7 @@ React 이용하여 간단하게 만들어본 웨이트트레이닝 웹<br><br>
 SPRING, REACT 를 이용하고 localtunnel, ngrok를 이용하여 로컬호스트로 배포중인 crud, 회원(세션) 권한 게시판<br>
 추가로 oauth2, 이메일인증 기능을 추가로 계획하고 있습니다.<br>
 현재 백엔드 스프링 프로젝트를 ngrok 배포한 관계로<br>
-<a href="https://a04b-59-10-11-158.jp.ngrok.io/" /> 를 접속하여 viste 처리를 해야합니다.<br>
+  <a href="https://a04b-59-10-11-158.jp.ngrok.io/">백엔드서버</a> 를 접속하여 viste 처리를 해야합니다.<br>
 <a href="https://github.com/aka-ryu/my"/>BOARD REPOSITORY</a>
 <br><br><br>
   
