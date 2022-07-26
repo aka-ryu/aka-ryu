@@ -40,7 +40,9 @@ SPRING, REACT 를 이용하고 localtunnel, ngrok를 이용하여 로컬호스�
 추가로 oauth2, 이메일인증 기능을 추가로 계획하고 있습니다.<br>
 현재 백엔드 스프링 프로젝트를 ngrok 배포한 관계로<br>
   <a href="https://a04b-59-10-11-158.jp.ngrok.io/">백엔드서버</a> 를 접속하여 viste 처리를 해야합니다.<br>
-<a href="https://github.com/aka-ryu/my"/>BOARD REPOSITORY</a>
+<a href="https://github.com/aka-ryu/my"/>BOARD REPOSITORY</a> <br>
+2022.07.26 비용문제로 잠시 서버를 닫았습니다.<br>
+aws 공부 후 aws 재 배포 예정입니다.
 <br><br><br>
   
 </strong>
