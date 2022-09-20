@@ -33,16 +33,14 @@
 
 <h3>portfolio</h3>
  
-<a href="https://aka-ryu.github.io/" target="_blank">모두의 운동</a><br>
-React 이용하여 간단하게 만들어본 웨이트트레이닝 웹<br><br>
-<a href="https://react-app-357000.du.r.appspot.com/" target="_blank">BOARD</a><br>
-SPRING, REACT 를 이용하고 localtunnel, ngrok를 이용하여 로컬호스트로 배포중인 crud, 회원(세션) 권한 게시판<br>
-추가로 oauth2, 이메일인증 기능을 추가로 계획하고 있습니다.<br>
-현재 백엔드 스프링 프로젝트를 ngrok 배포한 관계로<br>
-  <a href="https://a04b-59-10-11-158.jp.ngrok.io/">백엔드서버</a> 를 접속하여 viste 처리를 해야합니다.<br>
-<a href="https://github.com/aka-ryu/my"/>BOARD REPOSITORY</a> <br>
-2022.07.26 비용문제로 잠시 서버를 닫았습니다.<br>
-aws 공부 후 aws 재 배포 예정입니다.
+<a href="https://http://kisswallet.net/" target="_blank">KISS</a><br>
+블록체인 지갑서비스 KISS WEB APP 블록체인 파트 개발<br><br>
+-개발 상세<br>
+블록체인 잔액조회,<br>
+트랜잭션 영수증 확인,<br>
+트랜잭션 보낼시 현재 네트워크 수수료확인,<br>
+트랜잭션 보내기(EIP1559),
+
 <br><br><br>
   
 </strong>
