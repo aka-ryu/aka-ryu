@@ -36,6 +36,7 @@
 <a href="https://kisswallet.net/" target="_blank">KISS</a><br>
 블록체인 지갑서비스 KISS WEB APP 블록체인 파트 개발<br><br>
 -개발 상세<br>
+네트워크 : 이더리움, 폴리곤, 트론<br>
 블록체인 잔액조회,<br>
 트랜잭션 영수증 확인,<br>
 트랜잭션 보낼시 현재 네트워크 수수료확인,<br>
