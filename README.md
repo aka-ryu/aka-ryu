@@ -33,7 +33,7 @@
 
 <h3>portfolio</h3>
  
-<a href="https://http://kisswallet.net/" target="_blank">KISS</a><br>
+<a href="https://kisswallet.net/" target="_blank">KISS</a><br>
 블록체인 지갑서비스 KISS WEB APP 블록체인 파트 개발<br><br>
 -개발 상세<br>
 블록체인 잔액조회,<br>
