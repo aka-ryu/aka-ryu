@@ -55,7 +55,7 @@
     NFT 마켓 METAWIZ (백엔드: Laravel)<br> - 회원가입, 상품등록, 거래 등에 대한 백엔드 API 개발참여 <br><br>
     블록체인 지갑 KISS (백엔드: Laravel)<br> - 블록체인 핸들링(전송,조회 등) 개발 및 기본 백엔드 API 개발참여 <br><br>
     블록체인 지갑 N (백엔드: Laravel)<br> - 블록체인 핸들링(전송,조회 등) 개발 및 기본 백엔드 API 개발참여 <br><br>
-    블록체인 지갑 KISS (백엔드: Laravel)<br> - 블록체인 핸들링(전송,조회 등) 개발 및 기본 백엔드 API 개발참여 <br><br>
+    블록체인 지갑 LETS (백엔드: Laravel)<br> - 블록체인 핸들링(전송,조회 등) 개발 및 기본 백엔드 API 개발참여 <br><br>
     의료서비스 MEDICLE 앱 (프론트: React-native, 백엔드: NestJS)<br>
     - Auth, Blockchain 관련 페이지 담당 프론트,백엔드 개발참여<br>
     - public 레포지토리 (Front): https://github.com/MEDICLEMDI/mdi-frontend 
