@@ -10,7 +10,7 @@
 
 <h2>- 언어, 기술스택 </h2>
   
-<h3>실제 업무에서 사용했던 언어, 기술스택</h3>
+<h3>실제 업무에서 사용경혐이 있는 언어, 기술스택</h3>
 <div style="white-space: nowrap;">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Css3&logoColor=white" />
