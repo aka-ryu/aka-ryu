@@ -53,9 +53,10 @@
 <h2>- 참여 프로젝트</h2>
   <div style="white-space: nowrap;">
     NFT 마켓 프로젝트(백엔드: Laravel)<br> - 회원가입, 상품등록, 거래 등에 대한 백엔드 API 개발참여 <br><br>
-    블록체인 지갑 다수 프로젝트 (백엔드: Laravel)<br> - 블록체인 핸들링(전송,조회 등) 개발 및 기본 백엔드 API 개발참여 <br><br>
-    의료서비스 앱 (프론트: React-native, 백엔드: NestJS)<br>
-    - Auth, Blockchain 관련 페이지 담당 프론트,백엔드 개발참여<br>
+    블록체인 지갑 프로젝트 다수 (백엔드: Laravel)<br> - 블록체인 핸들링(전송,조회 등) 개발 및 기본 백엔드 API 개발참여 <br><br>
+    블록체인 결합 의료서비스 앱 (프론트: React-native, 백엔드: NestJS)<br>
+    - 블록체인 서비스 지갑생성, 잔액조회, 트랜잭션 생성, 조회 전체 담당<br>
+    - 서비스 앱 프론트,백엔드 풀스택 개발참여 <br>
     - public 레포지토리 (Front): https://github.com/MEDICLEMDI/mdi-frontend 
   </div>
 
