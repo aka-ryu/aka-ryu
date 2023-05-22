@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white "/><br> 
     aws 에 대한 직접적인 로드밸런서 설정등이 아닌 nginx 연결 및 ssl, https 설정, 도메인, 호스팅 경험<br><br>
     <img src="https://img.shields.io/badge/GoogleCloudPlatform-4285F4?style=flat-square&logo=Google&logoColor=white "/><br>
-    토이프로젝트 리액트,스프링부트 이미지첨부 게시판 구현 및 배포 하였으나 일주일만에 무료제공 30만원 소진<br>
+    토이프로젝트 리액트,스프링부트 이미지첨부 게시판 구현 및 배포 (프리티어 이용)<br>
     https://github.com/aka-ryu/my - 해당 프로젝트 레포지토리 <br><br>
     <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchaindotcom&logoColor=white "/><br>
     생태계, 컨트랙트 관련 아닌 지갑생성, 잔액조회, 트랜잭션전송 등의 블록체인지갑 및 핸들링에 대한 기능 구현
