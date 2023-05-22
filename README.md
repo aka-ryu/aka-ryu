@@ -10,7 +10,7 @@
 
 <h2>- 언어, 기술스택 </h2>
   
-<h3>실제 업무에서 사용경혐이 있는 언어, 기술스택</h3>
+<h3>실제 업무에 사용한 스택</h3>
 <div style="white-space: nowrap;">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Css3&logoColor=white" />
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchaindotcom&logoColor=white "/>
 </div>
   
-<h3>개인 적으로 최소 crud 구현해본 언어, 기술스택</h3>
+<h3>최소 crud 개인적으로 구현해본 언어, 기술스택</h3>
   <div style="white-space: nowrap;">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white "/>
       <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white "/>
