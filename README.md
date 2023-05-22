@@ -60,6 +60,13 @@
     - public 레포지토리 (Front): https://github.com/MEDICLEMDI/mdi-frontend 
   </div>
 
-<br><br><br>
+<br><br>
+  
+  
+<h2>- 기타 </h2>
+   <div style="white-space: nowrap;">
+     네이버 블로그: https://blog.naver.com/uhas2003<br>
+     티스토리 블로그: https://akaryu.tistory.com/ <br>
+     </div>
   
 </strong>
