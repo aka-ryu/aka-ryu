@@ -61,6 +61,14 @@
   </div>
 
 <br><br>
+
+<h2>- 포트폴리오</h2>
+  <div style="white-space: nowrap;">
+   sepolia 테스트넷을 이용한 erc20 지갑 핸들링 앱<br>
+    https://github.com/aka-ryu/ryu-s-wallet
+  </div>
+
+<br><br>
   
   
 <h2>- 기타 </h2>
